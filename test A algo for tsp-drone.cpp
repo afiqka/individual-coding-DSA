@@ -1,4 +1,5 @@
 //according to the article, the author used A* algorithm which is the modified of Dynamic programming to solve the tsp 
+//Im sorry for the change of algorithm madm, at first I thought the article wants to talk about algo of dynamic programming with drone.
 //basically A*algorithm will ignored irrelevant problem in order to find optimal solution.
 // this is just showing the search algorithm that been added in dynamic algorithm that ignores irrelevant subproblem
 #include <bits/stdc++.h>
